@@ -16,3 +16,4 @@ Clone these: http://www.moneychimp.com/calculator/compound_interest_calculator.h
 * FIRE (Financial Independence)
 * How much house can I afford?
 * Future stock return estimate (based on PE or CAPE + GDP growth, interest rates, etc.)
+* credit card validator (https://www.youtube.com/watch?v=gwVmE8gcqrg)
