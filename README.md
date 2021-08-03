@@ -10,6 +10,7 @@ Clone these: http://www.moneychimp.com/calculator/compound_interest_calculator.h
 * Annuity
 * Pres Value of Annuity
 * Bond Yield
+* Dividend Yield
 * Mortgage
 * Retirement
 * FIRE (Financial Independence)
