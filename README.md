@@ -1,2 +1,2 @@
-# calculators
+# JS Calculators
 Javascript calculators made with Svelte/React/Vue
