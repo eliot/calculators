@@ -1,5 +1,5 @@
 # JS Calculators
-Javascript calculators made with Svelte/React/Vue
+Javascript calculators made with Svelte/React/Vue/Elm
 
 ## Calculators to make
 Clone these: http://www.moneychimp.com/calculator/compound_interest_calculator.htm
